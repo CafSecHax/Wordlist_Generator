@@ -17,4 +17,5 @@ $ cd Wordlist_Generator
 
 $ ls 
 
-$ python Wordlist_Generator.py
+$ python wordlist_generator.py
+
